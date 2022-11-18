@@ -3,7 +3,7 @@ import { TfiHome, TfiUser, TfiMap } from "react-icons/tfi";
 export const MenuData = [
   {
     title: "Home",
-    path: "/home",
+    path: "/",
     icon: <TfiHome />,
   },
   {
